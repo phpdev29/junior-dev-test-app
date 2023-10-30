@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#body {
+    margin: 40px 60px 30px 60px;
+}
+
+.row .card {
+    width: 265px; 
+    height: 190px; 
+    margin: 0 15px 40px 15px;
+}
+
+.card .checkbox {
+    padding-top: 10px; 
+    padding-left: 10px;
+}
+
+#body .input, #select {
+    width: 350px;
+}
+
+#dvd, #furniture, #book {
+    display: none;
+}
